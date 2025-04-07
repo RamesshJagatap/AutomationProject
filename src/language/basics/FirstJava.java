@@ -40,13 +40,8 @@ public class FirstJava {
 
 }
 
-                     
-/* This 
- * is 
- * the 
- * Multiline 
- * Comment*/
+/*
+ * This is the Multiline Comment
+ */
 
 // Single Line Comment
-
-
