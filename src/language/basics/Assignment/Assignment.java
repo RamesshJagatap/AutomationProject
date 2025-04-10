@@ -27,7 +27,7 @@ public class Assignment {
 		// 6. Coordinates of a location (latitude, longitude): 37.7749, -122.4194
 
 		// 7. Person's marital status: true or false
-		boolean maritalStatus = true | false;
+		boolean maritalStatus = false|true ;
 		System.out.println(maritalStatus);
 
 //		8. Person's occupation: "Software Engineer"
@@ -66,6 +66,7 @@ public class Assignment {
 //		19.Person's birthplace: "New York City"
 		String BirthPlace = "New York City";
 		System.out.println(BirthPlace);
+		
 
 //		20.Distance between two cities: 200.5
 		float distance = 200.5f;
