@@ -1,4 +1,4 @@
-package language.basics.Assignment;
+package Assignment;
 
 public class Assignment {
 

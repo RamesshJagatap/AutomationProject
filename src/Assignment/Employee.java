@@ -1,7 +1,7 @@
-package language.basics.Assignment;
+package Assignment;
 
 public class Employee {
-	
+
 	String[] Empnames = { "Ramesh", "Ganesh", "Suresh", "somesh", "Lokesh" };
 	int[] id = { 1, 2, 3, 4, 5 };
 
@@ -18,6 +18,10 @@ public class Employee {
 //		id[2]=3;
 //		id[3]=4;
 //		id[4]=5;
+		
+		String [][] data = new String [5][2];
+		
+		
 //	
 	}
 
