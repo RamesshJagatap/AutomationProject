@@ -30,8 +30,8 @@ public class CollectionConcepts {
 		//Set ==> Hashset , LinkedHashSet , TreeSet
 		
 		//1. Set can store multiple values with similar datatype and allowcate memeory dynamically 
-		//2.List not duplicate values
-		//3.List allow modification
+		//2.set not duplicate values
+		//3.Set allow modification
 		//4.dynamic memory allocation
 		
 		//Map ==> HashMap , LinkedHashMap , Hashtable
