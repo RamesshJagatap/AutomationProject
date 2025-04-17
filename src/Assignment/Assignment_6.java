@@ -23,3 +23,8 @@ public class Assignment_6 {
 	}
 
 }
+//        Change Commit msg  
+//git commit --amend -m "New commit message"
+//git push origin master --force
+
+
