@@ -39,7 +39,7 @@ public class Assignment9_ConditionLoop {
 			
 		
 			if(table.rating>=4.2) {
-				sal = sal + 10/100;
+				sal = sal + sal*( 10/100);
 				int bonus = 1500;
 				System.out.println(table.name);
 			}
