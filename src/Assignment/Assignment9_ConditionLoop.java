@@ -47,7 +47,7 @@ public class Assignment9_ConditionLoop {
 				sal = sal + 10/100;
 				int bonus = 1200;
 			}
-			else if (table.rating < 3.0) {
+			else if(table.rating < 3.0) {
 				sal = sal + 3/100;
 				int bonus = 300;
 			}
