@@ -30,12 +30,17 @@ public class Assignment4_Attraction {
 
 		// cannot use for loop coz set doesn't have indexes then how can we iterate
 		// for collection framework we use iterator to iterate
-
-		Iterator<String> it = attraction.iterator();
-		while (it.hasNext()) {
-			String name = it.next();
-			System.out.println(" - " + name);
+//
+//		Iterator<String> it = attraction.iterator();
+//		while (it.hasNext()) {
+//			String name = it.next();
+//			System.out.println(" - " + name);
+//		}
+		
+		for (String  att:attraction) {
+			System.out.println(att);
 		}
+		
 		System.out.println("Total Attractions : " + attraction.size());
 
 	}

@@ -27,14 +27,18 @@ public class Class1 {
 	
 	
 	//default
+	 String city = "Pune";
 	
-	String add = "Pune";
-	
-	void add() {
+	void state() {
 		System.out.println("Maharashtra");
 	}
 	
-	//Private
+	public String getcity(String newcity) {
+		newcity = city;
+		return city;
+	}
+	
+	//Privates
 	private String Country = "India ";
 	private void country() {
 		System.out.println("India");
@@ -48,6 +52,16 @@ public class Class1 {
 		obj.mOne();
 		System.out.println(obj.id);
 		obj.adhaar();
+		System.out.println(obj.getCity());
+		obj.state();
+	}
+
+	public String getCity() {
+		return city;
+	}
+
+	public void setCity(String city) {
+		this.city = city;
 	}
 
 }

@@ -11,7 +11,7 @@ public class Class3 extends Class1 {
 		Class3 obj1 = new Class3();
 		System.out.println(obj1.id);
 		obj1.adhaar();
-		
+		System.out.println(obj1.getCity());
 	}
 
 }

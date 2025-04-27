@@ -11,8 +11,8 @@ public class Class2 {
 		
 		System.out.println(obj.id);
 		obj.adhaar();
-		System.out.println(obj.add);
-		obj.add();
+		System.out.println(obj.getCity());
+		obj.state();
 		
 		
 	}
