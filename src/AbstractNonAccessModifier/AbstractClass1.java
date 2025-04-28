@@ -13,4 +13,4 @@ public abstract class AbstractClass1 {
 
 }
 // if we are making the mehtod as an 
-//abstract then compulsory we have to implement it in subclass
+//abstract then compulsosry we have to implement it in subclass
